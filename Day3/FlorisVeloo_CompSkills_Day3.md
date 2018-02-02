@@ -1,14 +1,3 @@
----
-title: "FlorisVeloo_CompSkills_Day3.md"
-output: md_document
-keep_md: yes
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
 **Data source:** U.S. Geological Survey, for highest and lowest points,
 "Elevations and Distances in the United States," April 2005. retrieved
 on 31-01-2018 from
