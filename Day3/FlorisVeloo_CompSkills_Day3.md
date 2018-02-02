@@ -1,8 +1,3 @@
-**Data source:** U.S. Geological Survey, for highest and lowest points,
-"Elevations and Distances in the United States," April 2005. retrieved
-on 31-01-2018 from
-<https://www.census.gov/library/publications/2011/compendia/statab/131ed/geography-environment.html>
-
 **Description of data cleaning steps taken:**
 
 1.  Move variable names to the appropriate column (move cell [4,5] to
@@ -13,6 +8,11 @@ on 31-01-2018 from
 4.  follow step 3. for column 8
 5.  remove/edit manually row 15 in column 8 or follow step 3. with a
     adjusted search in text filter for (Z).
+
+**Data source:** U.S. Geological Survey, for highest and lowest points,
+"Elevations and Distances in the United States," April 2005. retrieved
+on 31-01-2018 from
+<https://www.census.gov/library/publications/2011/compendia/statab/131ed/geography-environment.html>
 
 **Code of data cleaning steps:**
 
